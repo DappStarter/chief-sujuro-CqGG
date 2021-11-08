@@ -1,0 +1,17 @@
+{
+    "name": "TREP",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/vanilla": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/asset_value_tracking/core-token/name": "TREP 1",
+        "/category/asset_value_tracking/core-token/symbol": "TRP1",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/asset_value_tracking/core-token/supply": "25000000",
+        "/category/collection/core-entity": true,
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "none"
+    }
+}
